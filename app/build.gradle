@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "org.lsposed.lspromise"
-        minSdk 34
+        minSdk 31
         targetSdk 37
         versionCode 1
         versionName "1.0"
